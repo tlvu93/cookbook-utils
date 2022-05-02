@@ -1,0 +1,1521 @@
+[
+  {
+    "data": {
+      "ingredient_name": "Tomatoes, grape, raw",
+      "carbohydrates": 5.51,
+      "protein": 0.83,
+      "fat": 0.63,
+      "kcal": 27
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, snap, green, canned, regular pack, drained solids",
+      "carbohydrates": 4.11,
+      "protein": 1.04,
+      "fat": 0.39,
+      "kcal": 21
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Frankfurter, beef, unheated",
+      "carbohydrates": 2.89,
+      "protein": 11.7,
+      "fat": 26,
+      "kcal": 314
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Nuts, almonds, dry roasted, with salt added",
+      "carbohydrates": 16.2,
+      "protein": 20.4,
+      "fat": 53.4,
+      "kcal": 620
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Kale, raw",
+      "carbohydrates": 4.42,
+      "protein": 2.92,
+      "fat": 1.49,
+      "kcal": 148
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Egg, whole, raw, frozen, pasteurized",
+      "carbohydrates": 0.91,
+      "protein": 12.3,
+      "fat": 10.3,
+      "kcal": 627
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Egg, white, raw, frozen, pasteurized",
+      "carbohydrates": 0.74,
+      "protein": 10.1,
+      "fat": 0.16,
+      "kcal": 48
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Egg, white, dried",
+      "carbohydrates": 6.02,
+      "protein": 79.9,
+      "fat": 0.65,
+      "kcal": 1570
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Onion rings, breaded, par fried, frozen, prepared, heated in oven",
+      "carbohydrates": 36.3,
+      "protein": 4.52,
+      "fat": 12.6,
+      "kcal": 288
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Pickles, cucumber, dill or kosher dill",
+      "carbohydrates": 1.99,
+      "protein": 0.48,
+      "fat": 0.43,
+      "kcal": 50
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Cheese, parmesan, grated",
+      "carbohydrates": 12.4,
+      "protein": 29.6,
+      "fat": 24,
+      "kcal": 421
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Cheese, pasteurized process, American, vitamin D fortified",
+      "carbohydrates": 5.27,
+      "protein": 18,
+      "fat": 27.6,
+      "kcal": 1530
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Grapefruit juice, white, canned or bottled, unsweetened",
+      "carbohydrates": 7.59,
+      "protein": 0.55,
+      "fat": 0.7,
+      "kcal": 157
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Peaches, yellow, raw",
+      "carbohydrates": 10.1,
+      "protein": 0.91,
+      "fat": 0.27,
+      "kcal": 42
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Seeds, sunflower seed kernels, dry roasted, with salt added",
+      "carbohydrates": 17.1,
+      "protein": 21,
+      "fat": 52.1,
+      "kcal": 612
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Bread, white, commercially prepared",
+      "carbohydrates": 49.2,
+      "protein": 9.43,
+      "fat": 3.45,
+      "kcal": 270
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Kale, frozen, cooked, boiled, drained, without salt",
+      "carbohydrates": 5.3,
+      "protein": 2.94,
+      "fat": 1.21,
+      "kcal": 36
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Mustard, prepared, yellow",
+      "carbohydrates": 5.3,
+      "protein": 4.25,
+      "fat": 3.76,
+      "kcal": 254
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Kiwifruit, green, raw",
+      "carbohydrates": 14,
+      "protein": 1.06,
+      "fat": 0.44,
+      "kcal": 58
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Nectarines, raw",
+      "carbohydrates": 9.18,
+      "protein": 1.06,
+      "fat": 0.13,
+      "kcal": 163
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Cheese, cheddar",
+      "carbohydrates": 2.44,
+      "protein": 23.3,
+      "fat": 29,
+      "kcal": 408
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Cheese, cottage, lowfat, 2% milkfat",
+      "carbohydrates": 4.31,
+      "protein": 11,
+      "fat": 1.87,
+      "kcal": 84
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Cheese, mozzarella, low moisture, part-skim",
+      "carbohydrates": 4.44,
+      "protein": 23.7,
+      "fat": 17.8,
+      "kcal": 1240
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Egg, whole, dried",
+      "carbohydrates": 1.87,
+      "protein": 48.1,
+      "fat": 39.8,
+      "kcal": 2410
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Egg, yolk, raw, frozen, pasteurized",
+      "carbohydrates": 0.59,
+      "protein": 15.6,
+      "fat": 25.1,
+      "kcal": 296
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Egg, yolk, dried",
+      "carbohydrates": 1.07,
+      "protein": 34.2,
+      "fat": 55.5,
+      "kcal": 654
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Yogurt, Greek, plain, nonfat",
+      "carbohydrates": 3.64,
+      "protein": 10.3,
+      "fat": 0.17,
+      "kcal": 256
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Yogurt, Greek, strawberry, nonfat",
+      "carbohydrates": 12.2,
+      "protein": 8.06,
+      "fat": 0.15,
+      "kcal": 83
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Oil, coconut",
+      "carbohydrates": 0.84,
+      "protein": 0,
+      "fat": 90.5,
+      "kcal": 3480
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Chicken, broilers or fryers, drumstick, meat only, cooked, braised",
+      "carbohydrates": 0,
+      "protein": 23.9,
+      "fat": 5.23,
+      "kcal": 652
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",
+      "carbohydrates": 0,
+      "protein": 32.1,
+      "fat": 3.05,
+      "kcal": 166
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Sauce, pasta, spaghetti/marinara, ready-to-serve",
+      "carbohydrates": 8.05,
+      "protein": 1.41,
+      "fat": 1.05,
+      "kcal": 45
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",
+      "carbohydrates": 0.27,
+      "protein": 16.7,
+      "fat": 3.15,
+      "kcal": 443
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Olives, green, Manzanilla, stuffed with pimiento",
+      "carbohydrates": 4.96,
+      "protein": 1.15,
+      "fat": 11.8,
+      "kcal": 130
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Cookies, oatmeal, soft, with raisins",
+      "carbohydrates": 69.6,
+      "protein": 5.79,
+      "fat": 13.7,
+      "kcal": 430
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Tomatoes, canned, red, ripe, diced",
+      "carbohydrates": 3.32,
+      "protein": 0.84,
+      "fat": 0.5,
+      "kcal": 18
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Fish, haddock, raw",
+      "carbohydrates": 0,
+      "protein": 16.3,
+      "fat": 0.32,
+      "kcal": 74
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Fish, pollock, raw",
+      "carbohydrates": 0,
+      "protein": 12.3,
+      "fat": 0.4,
+      "kcal": 56
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Fish, tuna, light, canned in water, drained solids",
+      "carbohydrates": 0.08,
+      "protein": 19,
+      "fat": 0.6,
+      "kcal": 90
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Restaurant, Chinese, fried rice, without meat",
+      "carbohydrates": 32.5,
+      "protein": 3.84,
+      "fat": 2.22,
+      "kcal": 174
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Restaurant, Latino, tamale, pork",
+      "carbohydrates": 15.8,
+      "protein": 7.38,
+      "fat": 7.98,
+      "kcal": 728
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Restaurant, Latino, pupusas con frijoles (pupusas, bean)",
+      "carbohydrates": 31.5,
+      "protein": 5.59,
+      "fat": 8.08,
+      "kcal": 959
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Bread, whole-wheat, commercially prepared",
+      "carbohydrates": 43.1,
+      "protein": 12.3,
+      "fat": 2.98,
+      "kcal": 254
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0\" fat, select, cooked, roasted",
+      "carbohydrates": 0,
+      "protein": 27.7,
+      "fat": 5.56,
+      "kcal": 176
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, choice, raw",
+      "carbohydrates": 0,
+      "protein": 22.8,
+      "fat": 5.93,
+      "kcal": 155
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+      "carbohydrates": 0,
+      "protein": 23.4,
+      "fat": 2.23,
+      "kcal": 512
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beef, round, top round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+      "carbohydrates": 0,
+      "protein": 23.7,
+      "fat": 2.14,
+      "kcal": 123
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8\" fat, select, raw",
+      "carbohydrates": 0,
+      "protein": 22.7,
+      "fat": 4.5,
+      "kcal": 145
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8\" fat, choice, cooked, grilled",
+      "carbohydrates": 0,
+      "protein": 27.3,
+      "fat": 10.5,
+      "kcal": 918
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Carrots, frozen, unprepared",
+      "carbohydrates": 7.92,
+      "protein": 0.81,
+      "fat": 0.33,
+      "kcal": 37
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Cheese, dry white, queso seco",
+      "carbohydrates": 2.07,
+      "protein": 24.5,
+      "fat": 21.4,
+      "kcal": 1360
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Cheese, ricotta, whole milk",
+      "carbohydrates": 6.86,
+      "protein": 7.81,
+      "fat": 10.3,
+      "kcal": 657
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Cheese, swiss",
+      "carbohydrates": 1.44,
+      "protein": 27,
+      "fat": 27.6,
+      "kcal": 393
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Figs, dried, uncooked",
+      "carbohydrates": 63.9,
+      "protein": 3.3,
+      "fat": 0.92,
+      "kcal": 1040
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Lettuce, cos or romaine, raw",
+      "carbohydrates": 3.24,
+      "protein": 1.24,
+      "fat": 0.26,
+      "kcal": 17
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Melons, cantaloupe, raw",
+      "carbohydrates": 8.16,
+      "protein": 0.82,
+      "fat": 0.18,
+      "kcal": 34
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Oranges, raw, navels",
+      "carbohydrates": 11.8,
+      "protein": 0.91,
+      "fat": 0.15,
+      "kcal": 47
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",
+      "carbohydrates": 5.18,
+      "protein": 3.38,
+      "fat": 0.85,
+      "kcal": 179
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Pears, raw, bartlett",
+      "carbohydrates": 15.1,
+      "protein": 0.38,
+      "fat": 0.16,
+      "kcal": 238
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Restaurant, Chinese, sweet and sour pork",
+      "carbohydrates": 25.5,
+      "protein": 8.88,
+      "fat": 13.3,
+      "kcal": 1090
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Salt, table, iodized"
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",
+      "carbohydrates": 4.92,
+      "protein": 3.43,
+      "fat": 0.07,
+      "kcal": 34
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Sauce, salsa, ready-to-serve",
+      "carbohydrates": 6.74,
+      "protein": 1.44,
+      "fat": 0.19,
+      "kcal": 122
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",
+      "carbohydrates": 4.9,
+      "protein": 3.36,
+      "fat": 1.64,
+      "kcal": 209
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Sausage, breakfast sausage, beef, pre-cooked, unprepared",
+      "carbohydrates": 3.37,
+      "protein": 13.3,
+      "fat": 27.1,
+      "kcal": 328
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Sausage, Italian, pork, mild, cooked, pan-fried",
+      "carbohydrates": 2.15,
+      "protein": 18.2,
+      "fat": 25.8,
+      "kcal": 322
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Sausage, pork, chorizo, link or ground, cooked, pan-fried",
+      "carbohydrates": 2.63,
+      "protein": 19.3,
+      "fat": 26,
+      "kcal": 346
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Milk, whole, 3.25% milkfat, with added vitamin D",
+      "carbohydrates": 4.63,
+      "protein": 3.27,
+      "fat": 2.77,
+      "kcal": 60
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Sausage, turkey, breakfast links, mild, raw",
+      "carbohydrates": 0.93,
+      "protein": 16.7,
+      "fat": 8.86,
+      "kcal": 706
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Sugars, granulated",
+      "carbohydrates": 99.6,
+      "protein": 0,
+      "fat": 0.32,
+      "kcal": 1610
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",
+      "carbohydrates": 0,
+      "protein": 27.1,
+      "fat": 10.4,
+      "kcal": 220
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Ham, sliced, restaurant",
+      "carbohydrates": 2.36,
+      "protein": 19.6,
+      "fat": 3.54,
+      "kcal": 121
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Cheese, American, restaurant",
+      "carbohydrates": 6.35,
+      "protein": 17.5,
+      "fat": 26.6,
+      "kcal": 375
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Medium Red (0% moisture)",
+      "protein": 25.5,
+      "fat": 1.04
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Red (0% moisture)",
+      "protein": 21.3,
+      "fat": 1.16
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Flor de Mayo (0% moisture)",
+      "protein": 23.3,
+      "fat": 0.86
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Brown (0% moisture)",
+      "protein": 25.6,
+      "fat": 1.12
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Tan (0% moisture)",
+      "protein": 26.8,
+      "fat": 1.14
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Light Tan (0% moisture)",
+      "protein": 24.6,
+      "fat": 1.28
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Carioca (0% moisture)",
+      "protein": 25.2,
+      "fat": 1.44
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Cranberry (0% moisture)",
+      "protein": 24.4,
+      "fat": 1.23
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Light Red Kidney (0% moisture)",
+      "protein": 25,
+      "fat": 1.03
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Pink (0% moisture)",
+      "protein": 23.4,
+      "fat": 1.2
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Dark Red Kidney (0% moisture)",
+      "protein": 25.9,
+      "fat": 1.31
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Navy (0% moisture)",
+      "protein": 24.1,
+      "fat": 1.51
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Small White (0% moisture)",
+      "protein": 24.5,
+      "fat": 1.32
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Small Red (0% moisture)",
+      "protein": 23.5,
+      "fat": 1.28
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Black (0% moisture)",
+      "protein": 24.4,
+      "fat": 1.45
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Pinto (0% moisture)",
+      "protein": 23.7,
+      "fat": 1.24
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Beans, Dry, Great Northern (0% moisture)",
+      "protein": 24.7,
+      "fat": 1.24
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Broccoli, raw",
+      "carbohydrates": 6.27,
+      "protein": 2.57,
+      "fat": 0.07,
+      "kcal": 132
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Ketchup, restaurant",
+      "carbohydrates": 26.8,
+      "protein": 1.11,
+      "fat": 0.55,
+      "kcal": 117
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Eggs, Grade A, Large, egg white",
+      "carbohydrates": 2.36,
+      "protein": 10.7,
+      "fat": 0,
+      "kcal": 231
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Eggs, Grade A, Large, egg yolk",
+      "carbohydrates": 1.02,
+      "protein": 16.2,
+      "fat": 28.8,
+      "kcal": 334
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Oil, canola",
+      "fat": 94.5
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Oil, corn",
+      "fat": 94
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Oil, soybean",
+      "fat": 94.6
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Oil, olive, extra virgin",
+      "fat": 93.7
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Eggs, Grade A, Large, egg whole",
+      "carbohydrates": 0.96,
+      "protein": 12.4,
+      "fat": 8.65,
+      "kcal": 148
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Pork, cured, bacon, cooked, restaurant",
+      "carbohydrates": 2.1,
+      "protein": 40.9,
+      "fat": 34.6,
+      "kcal": 500
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Butter, stick, unsalted",
+      "fat": 81.5
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, wheat, all-purpose, enriched, bleached",
+      "carbohydrates": 77.3,
+      "protein": 10.9,
+      "fat": 1.48,
+      "kcal": 1530
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, wheat, all-purpose, enriched, unbleached",
+      "carbohydrates": 73.2,
+      "protein": 13.1,
+      "fat": 1.48,
+      "kcal": 1500
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, wheat, all-purpose, unenriched, unbleached",
+      "carbohydrates": 74.6,
+      "protein": 12,
+      "fat": 1.7,
+      "kcal": 362
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, whole wheat, unenriched",
+      "carbohydrates": 71.2,
+      "protein": 15.1,
+      "fat": 2.73,
+      "kcal": 370
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, bread, white, enriched, unbleached",
+      "carbohydrates": 72.8,
+      "protein": 14.3,
+      "fat": 1.65,
+      "kcal": 363
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, rice, white, unenriched",
+      "carbohydrates": 79.8,
+      "protein": 6.94,
+      "fat": 1.3,
+      "kcal": 1500
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, corn, yellow, fine meal, enriched",
+      "carbohydrates": 80.8,
+      "protein": 6.2,
+      "fat": 1.74,
+      "kcal": 364
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Butter, stick, salted",
+      "fat": 65
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Onions, red, raw",
+      "carbohydrates": 9.93,
+      "protein": 0.94,
+      "fat": 0.1,
+      "kcal": 44
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Onions, yellow, raw",
+      "carbohydrates": 8.61,
+      "protein": 0.83,
+      "fat": 0.05,
+      "kcal": 38
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Garlic, raw",
+      "carbohydrates": 28.2,
+      "protein": 6.62,
+      "fat": 0.38,
+      "kcal": 143
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, soy, defatted",
+      "carbohydrates": 32.9,
+      "protein": 51.1,
+      "fat": 3.33,
+      "kcal": 366
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, soy, full-fat",
+      "carbohydrates": 27.9,
+      "protein": 38.6,
+      "fat": 20.7,
+      "kcal": 452
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, rice, brown",
+      "carbohydrates": 75.5,
+      "protein": 7.19,
+      "fat": 3.85,
+      "kcal": 1580
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, pastry, unenriched, unbleached",
+      "carbohydrates": 77.2,
+      "protein": 8.75,
+      "fat": 1.64,
+      "kcal": 358
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Onions, white, raw",
+      "carbohydrates": 7.68,
+      "protein": 0.89,
+      "fat": 0.13,
+      "kcal": 35
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Bananas, overripe, raw",
+      "carbohydrates": 20.1,
+      "protein": 0.73,
+      "fat": 0.22,
+      "kcal": 85
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Bananas, ripe and slightly ripe, raw",
+      "carbohydrates": 23,
+      "protein": 0.74,
+      "fat": 0.29,
+      "kcal": 408
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Apples, red delicious, with skin, raw",
+      "carbohydrates": 14.8,
+      "protein": 0.188,
+      "fat": 0.212
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Apples, fuji, with skin, raw",
+      "carbohydrates": 15.7,
+      "protein": 0.148,
+      "fat": 0.162
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Apples, gala, with skin, raw",
+      "carbohydrates": 14.8,
+      "protein": 0.133,
+      "fat": 0.15
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Apples, granny smith, with skin, raw",
+      "carbohydrates": 14.1,
+      "protein": 0.266,
+      "fat": 0.138
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Apples, honeycrisp, with skin, raw",
+      "carbohydrates": 14.7,
+      "protein": 0.102,
+      "fat": 0.1
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Oil, peanut",
+      "fat": 93.4
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Oil, sunflower",
+      "fat": 93.2
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Oil, safflower",
+      "fat": 93.2
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Oil, olive, extra light",
+      "fat": 92.9
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Mushroom, lion's mane",
+      "carbohydrates": 7.59,
+      "protein": 2.5,
+      "fat": 0.256
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Mushroom, oyster",
+      "carbohydrates": 6.94,
+      "protein": 2.9,
+      "fat": 0.188
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Mushrooms, shiitake",
+      "carbohydrates": 8.17,
+      "protein": 2.41,
+      "fat": 0.195
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Mushrooms, white button",
+      "carbohydrates": 4.08,
+      "protein": 2.89,
+      "fat": 0.371
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Soy milk, unsweetened, plain, shelf stable",
+      "carbohydrates": 1.29,
+      "protein": 3.55,
+      "fat": 1.88
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Almond milk, unsweetened, plain, shelf stable",
+      "carbohydrates": 0.337,
+      "protein": 0.555,
+      "fat": 1.11
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Spinach, baby",
+      "carbohydrates": 2.41,
+      "protein": 2.85,
+      "fat": 0.619
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Spinach, mature",
+      "carbohydrates": 2.64,
+      "protein": 2.91,
+      "fat": 0.604
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Tomato, roma",
+      "carbohydrates": 3.84,
+      "protein": 0.696,
+      "fat": 0.425
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, 00",
+      "carbohydrates": 74.4,
+      "protein": 11.4,
+      "fat": 1.52
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, spelt, whole grain",
+      "carbohydrates": 70.7,
+      "protein": 14.5,
+      "fat": 2.54
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, semolina, coarse and semi-coarse",
+      "carbohydrates": 73.8,
+      "protein": 11.7,
+      "fat": 1.6
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, semolina, fine",
+      "carbohydrates": 72,
+      "protein": 13.3,
+      "fat": 1.84
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Apple juice, with added vitamin C, from concentrate, shelf stable",
+      "carbohydrates": 11.4,
+      "protein": 0.086,
+      "fat": 0.286
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Orange juice, no pulp, not fortified, from concentrate, refrigerated",
+      "carbohydrates": 10.3,
+      "protein": 0.734,
+      "fat": 0.325
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Grape juice, purple, with added vitamin C, from concentrate, shelf stable",
+      "carbohydrates": 15.6,
+      "protein": 0.258,
+      "fat": 0.288
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Grape juice, white, with added vitamin C, from concentrate, shelf stable",
+      "carbohydrates": 15.8,
+      "protein": 0.094,
+      "fat": 0.265
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Cranberry juice, not fortified, from concentrate, shelf stable",
+      "carbohydrates": 7.26,
+      "protein": 0,
+      "fat": 0.338
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Grapefruit juice, red, not fortified, not from concentrate, refrigerated",
+      "carbohydrates": 9.1,
+      "protein": 0.57,
+      "fat": 0.267
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Tomato juice, with added ingredients, from concentrate, shelf stable",
+      "carbohydrates": 4.32,
+      "protein": 0.859,
+      "fat": 0.288
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Orange juice, no pulp, not fortified, not from concentrate, refrigerated",
+      "carbohydrates": 10,
+      "protein": 0.812,
+      "fat": 0.356
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Mushroom, portabella",
+      "carbohydrates": 4.66,
+      "protein": 2.75,
+      "fat": 0.312
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Mushroom, king oyster",
+      "carbohydrates": 8.5,
+      "protein": 2.41,
+      "fat": 0.308
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Mushroom, enoki",
+      "carbohydrates": 8.14,
+      "protein": 2.42,
+      "fat": 0.245
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Mushroom, crimini",
+      "carbohydrates": 4.01,
+      "protein": 3.09,
+      "fat": 0.197
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Mushroom, maitake",
+      "carbohydrates": 6.6,
+      "protein": 2.2,
+      "fat": 0.265
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Mushroom, beech",
+      "carbohydrates": 6.76,
+      "protein": 2.18,
+      "fat": 0.449
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Mushroom, pioppini",
+      "carbohydrates": 5.76,
+      "protein": 3.5,
+      "fat": 0.24
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Soy milk, unsweetened, plain, refrigerated",
+      "carbohydrates": 3,
+      "protein": 2.78,
+      "fat": 1.96
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Almond milk, unsweetened, plain, refrigerated",
+      "carbohydrates": 0.671,
+      "protein": 0.656,
+      "fat": 1.56
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Oat milk, unsweetened, plain, refrigerated",
+      "carbohydrates": 5.1,
+      "protein": 0.797,
+      "fat": 2.75
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Carrots, mature, raw",
+      "carbohydrates": 10.3,
+      "protein": 0.941,
+      "fat": 0.351
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Carrots, baby, raw",
+      "carbohydrates": 9.08,
+      "protein": 0.805,
+      "fat": 0.138
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Peppers, bell, green, raw",
+      "carbohydrates": 4.78,
+      "protein": 0.715,
+      "fat": 0.106
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Peppers, bell, yellow, raw",
+      "carbohydrates": 6.6,
+      "protein": 0.819,
+      "fat": 0.121
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Peppers, bell, red, raw",
+      "carbohydrates": 6.65,
+      "protein": 0.896,
+      "fat": 0.126
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Peppers, bell, orange, raw",
+      "carbohydrates": 6.7,
+      "protein": 0.882,
+      "fat": 0.156
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Buttermilk, low fat",
+      "carbohydrates": 4.81,
+      "protein": 3.46,
+      "fat": 1.08
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Yogurt, plain, whole milk",
+      "carbohydrates": 5.57,
+      "protein": 3.82,
+      "fat": 4.48
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Yogurt, Greek, plain, whole milk",
+      "carbohydrates": 4.75,
+      "protein": 8.78,
+      "fat": 4.39
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Cheese, parmesan, grated, refrigerated",
+      "carbohydrates": 4.33,
+      "protein": 30.1,
+      "fat": 29.5
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Cheese, feta, whole milk, crumbled",
+      "carbohydrates": 5.58,
+      "protein": 19.7,
+      "fat": 19.1
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, almond",
+      "carbohydrates": 16.2,
+      "protein": 26.2,
+      "fat": 50.2
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, oat, whole grain",
+      "carbohydrates": 69.9,
+      "protein": 13.2,
+      "fat": 6.31
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flour, potato",
+      "carbohydrates": 79.9,
+      "protein": 8.11,
+      "fat": 0.951
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Peanut butter, creamy",
+      "carbohydrates": 22.7,
+      "protein": 24,
+      "fat": 49.4
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Sesame butter, creamy",
+      "carbohydrates": 14.2,
+      "protein": 19.7,
+      "fat": 62.4
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Almond butter, creamy",
+      "carbohydrates": 21.2,
+      "protein": 20.8,
+      "fat": 53
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Flaxseed, ground",
+      "carbohydrates": 34.4,
+      "protein": 18,
+      "fat": 37.3
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Strawberries, raw",
+      "carbohydrates": 7.96,
+      "protein": 0.641,
+      "fat": 0.22
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Raspberries, raw",
+      "carbohydrates": 12.9,
+      "protein": 1.01,
+      "fat": 0.188
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Blueberries, raw",
+      "carbohydrates": 14.6,
+      "protein": 0.703,
+      "fat": 0.306
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Grapes, red, seedless, raw",
+      "carbohydrates": 20.2,
+      "protein": 0.914,
+      "fat": 0.164
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Grapes, green, seedless, raw",
+      "carbohydrates": 18.6,
+      "protein": 0.899,
+      "fat": 0.232
+    }
+  },
+  {
+    "data": {
+      "ingredient_name": "Applesauce, unsweetened, with added vitamin C",
+      "carbohydrates": 12.3,
+      "protein": 0.273,
+      "fat": 0.162
+    }
+  }
+]
